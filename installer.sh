@@ -276,7 +276,7 @@ done
 
 function abtsec {
 	clear
-	cat deps/.about
+	cat deps/about
 	read -p "Press ENTER to return."
 	clear
 	return
