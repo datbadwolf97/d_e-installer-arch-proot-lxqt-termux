@@ -25,7 +25,7 @@ Copy Paste this commands :<br/>
 ```
 pacman -Syu
 pacman -S git
-git clone https://github.com/datbadwolf97/d_e-installer-arch-proot-lxqt
+git clone https://github.com/datbadwolf97/d_e-installer-arch-proot-lxqt-termux
 cd d_e-installer-arch-proot-lxqt-termux
 chmod u+rwx installer.sh installdeps.sh
 ```
