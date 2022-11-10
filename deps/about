@@ -1,0 +1,32 @@
+LXQt Installer for Arch/Manjaro Linux.
+This script was made because I was too lazy to type almost anything in order
+to run a DE inside these distros.
+=============================================================================
+>>>> Spec Minimum to run a Desktop Environment :
+> 3GB of RAM, LPDDR4 recomended.
+
+> 4GB of free space on internal (because Termux doesn't like to stay in EXT).
+
+> At least a stable internet connection, WiFi recomended, but not always.
+
+> At least UNISOC Tiger T606 or better.
+>>> Well, some of Quad core processors will do the most, but it's hella slow.
+>>> At least 1.6GHz or better, 4 to 8 cores.
+>>> It must be 64BIT ARM processors,if not, how could you run Manjaro then?
+
+> Android 11 or lower (phantomkillerprocess on A12 doesn't like Termux).
+>>> SUPER RECOMMENDED : Android 9 64Bit ARM.
+
+> A fully functional brain.
+
+> Patience.....it takes a long ass time, trust me...
+>>> Well it depends on how fast your processors was.
+>>> It'll be faster on mobile rather on WiFi, trust me, Indonesian's WiFi
+    sucks a lot.....
+=============================================================================
+>>> Depedencies (can be satisfied by running installdeps.sh) :
+1. procps
+2. sudo
+============================================================================
+Version : 0.1 beta
+============================================================================
