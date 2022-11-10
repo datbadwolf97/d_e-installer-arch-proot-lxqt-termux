@@ -1,7 +1,7 @@
 ## Desktop Environment Installer (LXQt Variant) For Arch Linux.
 
 **Disclaimer!**<br/>
-This script was made for any Debian Based Distros that runs inside Proot, it won't work outside Proot (unless if you're brave enough to broke your Termux), but don't worry, the script won't run if you accidentally execute it outside Proot Container.
+This script was made for any Arch Based Distros that runs inside Proot, it won't work outside Proot (unless if you're brave enough to broke your Termux), but don't worry, the script won't run if you accidentally execute it outside Proot Container.
 
 ## To sum it all,again.....
 A super simple script (not gonna lie) to install LXQt Desktop Environment for Arch/Manjaro Linux, it won't work outside these distros.
