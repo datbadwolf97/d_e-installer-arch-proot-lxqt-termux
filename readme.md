@@ -20,6 +20,7 @@ Of course! *I do care about those Debian users that somehow gets lost inside RHE
 1. Nothing, just clone it and run it....
 
 # How to basic.
+Note that there's 2 of them, python and shell, shell one is recommended because it is the stable one and has more features than the python one, your choice.<br/>
 
 Copy Paste this commands :<br/>
 ```
