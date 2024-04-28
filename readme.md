@@ -13,7 +13,7 @@ A super simple script (not gonna lie) to install LXQt Desktop Environment for Ar
 
 Can be satisfied by running `installdeps.sh` anyway....<br/>
 Easy, right?<br/>
-Of course! *I do care about those Debian users that somehow gets lost inside RHEL based Linux.*<br/>
+Of course! *I do care about those Debian users that somehow gets lost on LFS like Linux.*<br/>
 
 # Here comes the features!
 
